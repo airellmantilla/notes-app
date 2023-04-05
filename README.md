@@ -24,6 +24,8 @@ The Notes App is an application that allows users to store and manage notes on t
 - The user can edit their name or logout.
 
 ## Video Demo
+Click on the image below to get redirected 
+
 [![iOS Notes App Demo](https://img.youtube.com/vi/PQYJV-dQ1zI/maxresdefault.jpg)](https://youtu.be/PQYJV-dQ1zI)
 
 ## License
